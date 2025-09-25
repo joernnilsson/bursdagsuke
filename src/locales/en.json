@@ -1,0 +1,120 @@
+{
+  "app": {
+    "title": "Bursdagsuke.no",
+    "subtitle": "Little wins, every week"
+  },
+  "settings": {
+    "title": "Settings",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "nameLabel": "Your name (for nameday)",
+    "namePlaceholder": "e.g. John",
+    "birthdayLabel": "Birthday",
+    "birthdayPlaceholder": "dd.mm.yyyy",
+    "birthdayError": "Please enter a valid date in dd.mm.yyyy format",
+    "moveInDateLabel": "Move-in date",
+    "moveInDatePlaceholder": "dd.mm.yyyy",
+    "dataNote": "Data is stored only on this device (localStorage).",
+    "more": "More",
+    "less": "Less"
+  },
+  "week": {
+    "weekOf": "Week of",
+    "noDetails": "No additional details."
+  },
+  "events": {
+    "birthday": "Birthday 🎂 (turning {{age}})",
+    "halfBirthday": "Half-birthday 🎉",
+    "quarterBirthday": "Quarter-birthday 🎉",
+    "daysUntilBirthday": "{{days}} days until your birthday ⏳",
+    "weeksOld": "🎉 {{weeks}} weeks old (week-birthday)",
+    "monthsOld": "🎉 {{months}} months old",
+    "nameday": "Nameday for {{name}} 🎈",
+    "halfNameday": "Half-nameday 🎉",
+    "quarterNameday": "Quarter-nameday 🎉",
+    "daysUntilNameday": "{{days}} days until your nameday ⏳",
+    "moveInAnniversary": "Move-in anniversary 🏠 ({{years}} years)",
+    "halfMoveInAnniversary": "Half move-in anniversary 🎉",
+    "quarterMoveInAnniversary": "Quarter move-in anniversary 🎉",
+    "weeksSinceMoveIn": "🎉 {{weeks}} weeks since your move-in date!",
+    "monthsSinceMoveIn": "🎉 {{months}} months since your move-in date!",
+    "starSignMonthStart": "🌟 {{starSign}} month starts today!",
+    "daysUntilStarSign": "{{days}} days until {{starSign}} month ⏳",
+    "starSigns": {
+      "aries": "Aries",
+      "taurus": "Taurus", 
+      "gemini": "Gemini",
+      "cancer": "Cancer",
+      "leo": "Leo",
+      "virgo": "Virgo",
+      "libra": "Libra",
+      "scorpio": "Scorpio",
+      "sagittarius": "Sagittarius",
+      "capricorn": "Capricorn",
+      "aquarius": "Aquarius",
+      "pisces": "Pisces"
+    },
+    "birthdayWeek": "Birthday Week!",
+    "birthdayMonth": "Birthday Month!",
+    "daysOld": "{{days}} days old",
+    "secondsOld": "{{seconds}} seconds old",
+    "unitLabels": {
+      "days": "days old",
+      "weeks": "weeks old", 
+      "months": "months old",
+      "seconds": "seconds old"
+    },
+    "specialNumber": {
+      "palindrome": "🎯 {{value}} {{unit}} - Special palindrome number!",
+      "repeating": "🎯 {{value}} {{unit}} - Special repeating block number!",
+      "sequential": "🎯 {{value}} {{unit}} - Special sequential double digits!"
+    },
+    "specialNumberExplanations": {
+      "palindrome": "A palindrome reads the same forwards and backwards. This special number pattern creates a unique milestone worth celebrating!",
+      "repeating": "This number contains a repeating pattern of digits. It's like a musical rhythm in numbers - perfectly structured and memorable.",
+      "sequential": "Each pair of digits follows a sequential pattern. These numbers have a beautiful symmetry that makes them mathematically special."
+    },
+    "christmas": "Christmas 🎄",
+    "daysUntilChristmas": "{{days}} days until Christmas ⏳",
+    "advent": "{{number}}. Advent 🕯️",
+    "daysUntilNewYear": "{{days}} days until New Year ⏳",
+    "halfYearMarker": "Half-Year Marker 🗓️",
+    "newYear": "Happy New Year 🎆",
+    "explanations": {
+      "birthday": "Your annual birthday! A day to celebrate you and everything you've accomplished this past year. Take time to enjoy the day and surround yourself with those you love.",
+      "halfBirthday": "Halfway to your next birthday! A perfect opportunity to reflect on the year so far and maybe treat yourself to something special.",
+      "quarterBirthday": "A quarter of the way to your next birthday. These smaller milestones help us remember to celebrate life throughout the entire year.",
+      "daysUntilBirthday": "Counting down to your special day! Use this time to plan something fun or just look forward to the celebration.",
+      "weeksOld": "A round week milestone! These special numbers show how long you've been on Earth in weeks - an interesting way to think about age.",
+      "monthsOld": "A round month milestone! Months are a nice way to measure age, especially in the early years when each month feels like a big change.",
+      "birthdayWeek": "The whole week around your birthday is special! A full week of celebration and joy - perfect for extending the party beyond just one day.",
+      "birthdayMonth": "The whole month around your birthday! A full month of birthday spirit - no reason to limit the celebration to just one day.",
+      "moveInAnniversary": "Celebrate how long you've lived in this place! Your move-in date marks the beginning of a new chapter in your life.",
+      "halfMoveInAnniversary": "Halfway to your next move-in anniversary. A nice opportunity to reflect on how your home has become yours.",
+      "quarterMoveInAnniversary": "A quarter of the way to your next move-in anniversary. These milestones help us remember to appreciate our homes.",
+      "weeksSinceMoveIn": "Round weeks since you moved in! These special numbers show how well you've settled into your new place.",
+      "monthsSinceMoveIn": "Round months since moving in! Each month brings new memories and makes the place more your own.",
+      "starSignMonthStart": "Your star sign month begins! Astrology can be fun to explore, and this is a great opportunity to learn more about your sign.",
+      "daysUntilStarSign": "Counting down to your star sign month! An exciting time to explore astrology and maybe plan something special.",
+      "halfNameday": "Halfway to your next nameday! Namedays are a traditional way to celebrate your name, and half-namedays give you an extra opportunity.",
+      "quarterNameday": "A quarter of the way to your next nameday. These smaller milestones help us remember to celebrate our names throughout the year.",
+      "daysUntilNameday": "Counting down to your nameday! Namedays are a lovely tradition that gives us an extra reason to celebrate.",
+      "christmas": "Christmas is a time for family, joy, and traditions. One of the year's most magical days when we come together and celebrate love and togetherness.",
+      "daysUntilChristmas": "Christmas is approaching! A time to look forward, plan gifts, and spend quality time with family and friends.",
+      "advent": "Advent marks the preparation for Christmas. Each Sunday a new candle is lit, and we get closer to the big celebration.",
+      "daysUntilNewYear": "New Year is approaching! A time for reflection on the year that has passed and excitement for what's to come.",
+      "halfYearMarker": "Halfway through the year! A great opportunity to reflect on the first half of the year and plan for the rest.",
+      "newYear": "The start of a new year! A time for new opportunities, resolutions, and hope. Perfect for setting goals and celebrating the future."
+    }
+  },
+  "orientation": {
+    "portraitOnly": "Portrait only",
+    "rotateMessage": "Please rotate your phone to portrait orientation to use this app."
+  },
+  "language": {
+    "select": "Language",
+    "norwegian": "Norsk",
+    "english": "English"
+  }
+}

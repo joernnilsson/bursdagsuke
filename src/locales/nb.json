@@ -1,0 +1,120 @@
+{
+  "app": {
+    "title": "Bursdagsuke.no",
+    "subtitle": "Små seirer, hver uke"
+  },
+  "settings": {
+    "title": "Innstillinger",
+    "close": "Lukk",
+    "save": "Lagre",
+    "cancel": "Avbryt",
+    "nameLabel": "Ditt navn (for navnedag)",
+    "namePlaceholder": "f.eks. Olav",
+    "birthdayLabel": "Bursdag",
+    "birthdayPlaceholder": "dd.mm.åååå",
+    "birthdayError": "Vennligst skriv inn en gyldig dato i dd.mm.åååå format",
+    "moveInDateLabel": "Innflyttingsdato",
+    "moveInDatePlaceholder": "dd.mm.åååå",
+    "dataNote": "Data lagres kun på denne enheten (localStorage).",
+    "more": "Mer",
+    "less": "Mindre"
+  },
+  "week": {
+    "weekOf": "Uke av",
+    "noDetails": "Ingen tilleggsopplysninger."
+  },
+  "events": {
+    "birthday": "Bursdag 🎂 (blir {{age}} år)",
+    "halfBirthday": "Halv-bursdag 🎉",
+    "quarterBirthday": "Kvartal-bursdag 🎉",
+    "daysUntilBirthday": "{{days}} dager til bursdagen ⏳",
+    "weeksOld": "🎉 {{weeks}} uker gammel (uke-bursdag)",
+    "monthsOld": "🎉 {{months}} måneder gammel",
+    "nameday": "Navnedag for {{name}} 🎈",
+    "halfNameday": "Halv-navnedag 🎉",
+    "quarterNameday": "Kvartal-navnedag 🎉",
+    "daysUntilNameday": "{{days}} dager til navnedagen ⏳",
+    "moveInAnniversary": "Innflyttingsjubileum 🏠 ({{years}} år)",
+    "halfMoveInAnniversary": "Halv innflyttingsjubileum 🎉",
+    "quarterMoveInAnniversary": "Kvartal innflyttingsjubileum 🎉",
+    "weeksSinceMoveIn": "🎉 {{weeks}} uker siden innflyttingsdatoen!",
+    "monthsSinceMoveIn": "🎉 {{months}} måneder siden innflyttingsdatoen!",
+    "starSignMonthStart": "🌟 {{starSign}} måned starter i dag!",
+    "daysUntilStarSign": "{{days}} dager til {{starSign}} måned ⏳",
+    "starSigns": {
+      "aries": "Væren",
+      "taurus": "Tyren",
+      "gemini": "Tvillingene", 
+      "cancer": "Krepsen",
+      "leo": "Løven",
+      "virgo": "Jomfruen",
+      "libra": "Vekten",
+      "scorpio": "Skorpionen",
+      "sagittarius": "Skytten",
+      "capricorn": "Steinbukken",
+      "aquarius": "Vannmannen",
+      "pisces": "Fiskene"
+    },
+    "birthdayWeek": "Bursdagsuke!",
+    "birthdayMonth": "Bursdagsmåned!",
+    "daysOld": "{{days}} dager gammel",
+    "secondsOld": "{{seconds}} sekunder gammel",
+    "unitLabels": {
+      "days": "dager gammel",
+      "weeks": "uker gammel",
+      "months": "måneder gammel", 
+      "seconds": "sekunder gammel"
+    },
+    "specialNumber": {
+      "palindrome": "🎯 {{value}} {{unit}} - Spesielt palindromtall!",
+      "repeating": "🎯 {{value}} {{unit}} - Spesielt repeterende blokktall!",
+      "sequential": "🎯 {{value}} {{unit}} - Spesielt sekvensielle dobbeltsiffer!"
+    },
+    "specialNumberExplanations": {
+      "palindrome": "Et palindrom leses likt forover og bakover. Dette spesielle tallmønsteret skaper en unik milepæl verdt å feire!",
+      "repeating": "Dette tallet inneholder et repeterende mønster av siffer. Det er som en musikalsk rytme i tall - perfekt strukturert og minneverdig.",
+      "sequential": "Hvert par siffer følger et sekvensielt mønster. Disse tallene har en vakker symmetri som gjør dem matematisk spesielle."
+    },
+    "christmas": "Jul 🎄",
+    "daysUntilChristmas": "{{days}} dager til jul ⏳",
+    "advent": "{{number}}. advent 🕯️",
+    "daysUntilNewYear": "{{days}} dager til nyttår ⏳",
+    "halfYearMarker": "Halvårsmerke 🗓️",
+    "newYear": "Godt nyttår 🎆",
+    "explanations": {
+      "birthday": "Din årlige bursdag! En dag for å feire deg og alt du har oppnådd det siste året. Ta deg tid til å nyte dagen og omgi deg med de du elsker.",
+      "halfBirthday": "Halvveis til neste bursdag! En perfekt anledning til å reflektere over året så langt og kanskje gi deg selv en liten belønning.",
+      "quarterBirthday": "En kvartdel av veien til neste bursdag. Disse mindre milepælene hjelper oss å huske å feire livet gjennom hele året.",
+      "daysUntilBirthday": "Teller ned til din spesielle dag! Bruk denne tiden til å planlegge noe gøy eller bare glede deg til feiringen.",
+      "weeksOld": "En rund uke-milestone! Disse spesielle tallene viser hvor lang tid du har vært på jorden i uker - en interessant måte å tenke på alder på.",
+      "monthsOld": "En rund måned-milestone! Måneder er en fin måte å måle alder på, spesielt i de tidlige årene når hver måned føles som en stor endring.",
+      "birthdayWeek": "Hele uken rundt bursdagen din er spesiel! En hel uke med feiring og glede - perfekt for å utvide feiringen utover bare én dag.",
+      "birthdayMonth": "Hele måneden rundt bursdagen din! En hel måned med bursdagsstemning - ingen grunn til å begrense feiringen til bare én dag.",
+      "moveInAnniversary": "Feir hvor lenge du har bodd på dette stedet! Innflyttingsdatoen markerer starten på et nytt kapittel i livet ditt.",
+      "halfMoveInAnniversary": "Halvveis til neste innflyttingsjubileum. En fin anledning til å reflektere over hvordan hjemmet ditt har blitt til.",
+      "quarterMoveInAnniversary": "En kvartdel av veien til neste innflyttingsjubileum. Disse milepælene hjelper oss å huske å verdsette hjemmet vårt.",
+      "weeksSinceMoveIn": "Runde uker siden du flyttet inn! Disse spesielle tallene viser hvor godt du har etablert deg på det nye stedet.",
+      "monthsSinceMoveIn": "Runde måneder siden innflyttingen! Hver måned bringer nye minner og gjør stedet mer til ditt eget.",
+      "starSignMonthStart": "Din stjernetegn-måned starter! Astrologi kan være morsom å utforske, og dette er en fin anledning til å lære mer om stjernetegnet ditt.",
+      "daysUntilStarSign": "Teller ned til din stjernetegn-måned! En spennende tid for å utforske astrologi og kanskje planlegge noe spesielt.",
+      "halfNameday": "Halvveis til neste navnedag! Navnedager er en tradisjonell måte å feire navnet ditt på, og halv-navnedager gir deg en ekstra anledning.",
+      "quarterNameday": "En kvartdel av veien til neste navnedag. Disse mindre milepælene hjelper oss å huske å feire navnet vårt gjennom året.",
+      "daysUntilNameday": "Teller ned til navnedagen din! Navnedager er en fin tradisjon som gir oss en ekstra grunn til å feire.",
+      "christmas": "Jul er en tid for familie, glede og tradisjoner. En av årets mest magiske dager hvor vi kommer sammen og feirer kjærlighet og fellesskap.",
+      "daysUntilChristmas": "Julen nærmer seg! En tid for å glede seg, planlegge gaver og tilbringe kvalitetstid med familie og venner.",
+      "advent": "Advent markerer forberedelsen til jul. Hver søndag tennes et nytt lys, og vi kommer nærmere den store feiringen.",
+      "daysUntilNewYear": "Nyttår nærmer seg! En tid for refleksjon over året som har gått og spenning for det som kommer.",
+      "halfYearMarker": "Halvveis gjennom året! En fin anledning til å reflektere over årets første halvdel og planlegge resten av året.",
+      "newYear": "Start på et nytt år! En tid for nye muligheter, løfter og håp. Perfekt for å sette seg mål og feire fremtiden."
+    }
+  },
+  "orientation": {
+    "portraitOnly": "Kun portrett",
+    "rotateMessage": "Vennligst roter telefonen til portrettmodus for å bruke denne appen."
+  },
+  "language": {
+    "select": "Språk",
+    "norwegian": "Norsk",
+    "english": "English"
+  }
+}
